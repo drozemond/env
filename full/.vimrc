@@ -17,6 +17,9 @@ set nowritebackup               " Don't write backup
 set number                      " Show line numbers
 set ruler                       " Show current position
 set scrolloff=7                 " Scrolloff 7 lines to cursor
+set shiftwidth=4                " Shift 4 spaces
+set smarttab                    " Be smart when using tabs
+set tabstop=4                   " Tab as 4 spaces
 set showmatch                   " Show matching brackets
 set smartcase                   " Try to be smart when searching
 set splitbelow                  " Always split window below
